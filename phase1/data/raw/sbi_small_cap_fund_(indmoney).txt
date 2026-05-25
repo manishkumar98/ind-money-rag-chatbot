@@ -1,5 +1,5 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-small-cap-fund-direct-plan-growth-3603
-Scraped Date: 2026-05-18 02:12:02
+Scraped Date: 2026-05-25 02:16:54
 --------------------------------------------------
 INDmoney
 
@@ -54,14 +54,14 @@ Small-Cap
 
 Get the latest NAV of SBI Small Cap Fund. View historical returns compared to its benchmark and category average. Know which stocks and sectors the fund is investing in. Get an estimate of returns from the SIP and lump sum returns calculator. View detailed holding analysis and peer comparison. Get INDmoney ranking of the fund.
 
-₹190.24
+₹192.12
 
 ▲0.2%
 1D
 
-NAV as on 15 May 2026
+NAV as on 22 May 2026
 
-22.39%
+22.44%
 /per year
 
 Since Inception
@@ -73,9 +73,9 @@ Absolute Gain%
 ▲
 ▼
 
-This fund ​₹190.2 +1388.58%
-Nifty Smallcap 250 ​16722.9 +518.32%
-17-05-2026​NAV ₹190.24​​This fund 1388.58%​Nifty Smallcap 250 518.32%
+This fund ​₹192.1 +1403.31%
+Nifty Smallcap 250 ​16775.3 +520.26%
+24-05-2026​NAV ₹192.12​​This fund 1403.29%​Nifty Smallcap 250 520.26%
 1M
 3M
 6M
@@ -84,11 +84,11 @@ Nifty Smallcap 250 ​16722.9 +518.32%
 5Y
 MAX
 
-47468 people have invested ₹ 14.4Cr in SBI Small Cap Fund in the last three months
+47148 people have invested ₹ 14.4Cr in SBI Small Cap Fund in the last three months
 
 SBI Small Cap Fund Performance vs. Nifty Smallcap 250
 
-Fund returns vs Benchmark returns vs Category Average returns as on (15-May-26)
+Fund returns vs Benchmark returns vs Category Average returns as on (22-May-26)
 
 The fund has underperformed the benchmark (Nifty Smallcap 250) over the last 1Y, 3Y, 5Y time periods.
 
@@ -109,77 +109,77 @@ Period
 
 This Fund
 	
-1.58%
+-1.07%
 	
-1.6%
+3.17%
 	
--3.46%
+-1.1%
 	
-0.25%
+1%
 	
-13.38%
+13.58%
 	
-15.57%
+15.03%
 
 
 Nifty Smallcap 250
 	
-1.73%
+2.2%
 	
-3.87%
+5.29%
 	
--2.76%
+0.96%
 	
-1.93%
+1.47%
 	
-19.83%
+19.91%
 	
-17.02%
+16.27%
 
 
 Small-Cap Avg
 	
-4.58%
+1.54%
 	
-4.93%
+5.41%
 	
--0.19%
+1.88%
 	
-6.76%
+6.27%
 	
-18.99%
+18.81%
 	
-19.05%
+18.14%
 
 
 Best in Small-Cap
 	
-10.24%
+6.72%
 	
-11.64%
+13.3%
 	
-6.26%
+9.26%
 	
-22.86%
+23.26%
 	
-30.92%
+30.84%
 	
-24.39%
+23.47%
 
 
 Worst in Small-Cap
 	
-1.24%
+-1.07%
 	
--1.91%
+-0.52%
 	
--7.45%
+-5.96%
 	
--5.98%
+-8.05%
 	
-13.38%
+13.12%
 	
-15.57%
+15.03%
 
 
 Category Rank
@@ -236,11 +236,11 @@ SBI Small Cap Fund
 	
 37,141Cr
 	
-0.79%
+0.86%
 	
-0.25%
+1%
 	
-13.38%
+13.58%
 	
 -2.87
 	
@@ -261,9 +261,9 @@ Bandhan Small Cap Fund
 	
 0.34%
 	
-9.88%
+9%
 	
-30.92%
+30.84%
 	
 9.36
 	
@@ -284,9 +284,9 @@ Invesco India Smallcap Fund
 	
 0.52%
 	
-9.09%
+8.98%
 	
-25.12%
+24.43%
 	
 5.34
 	
@@ -305,11 +305,11 @@ Nippon India Small Cap Fund
 	
 72,673Cr
 	
-0.67%
+0.55%
 	
-6.9%
+6.63%
 	
-21.07%
+20.94%
 	
 1.76
 	
@@ -343,7 +343,7 @@ Total Investment
 
 Profit
 
-₹ 247.1
+₹ 995.1
 
 Total Corpus
 
@@ -352,10 +352,10 @@ Total Corpus
 Absolute Return
 ▲
 ▼
-0.2%
+1%
 ₹ 1.03L​₹ 1.03L
-₹ 1.07L​₹ 1.07L
-₹ 1L​₹ 1L
+₹ 1.06L​₹ 1.06L
+₹ 1.01L​₹ 1.01L
 Savings a/c
 Category Avg
 This Fund
@@ -387,8 +387,8 @@ Asset Allocation Changes
 
 All changes are between May'26 and Feb'26
 
-Mid Cap allocation has gone up from 4.4% to 4.5%
 Small Cap allocation has gone down from 82.2% to 80.8%
+Mid Cap allocation has gone up from 4.4% to 4.5%
 Cash allocation has gone up from 8.1% to 9.6%
 Debt allocation has gone down from 0.2% to 0.2%
 SBI Small Cap Fund Sector Allocation
@@ -527,7 +527,7 @@ SBI Small Cap Fund Overview
 Get key fund statistics, minimum investment details, AUM, expense ratio, exit load, and tax treatment.
 
 Expense ratio
-0.79%
+0.86%
 Benchmark
 BSE 250 SmallCap TR INR
 AUM
@@ -596,15 +596,15 @@ Select whether you want to invest in SIP or lump sum.
 Enter the amount you wish to invest.
 Set up payments via bank mandate or UPI.
 What is the current NAV of SBI Small Cap Fund?
-The NAV of the fund today is ₹190.24. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
+The NAV of the fund today is ₹192.12. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is ₹10, it means you can get 1000 units of that mutual fund at ₹10,000.
 What is the return on the fund?
-SBI Small Cap Fund fund has generated a return of 0.25% in 1 year, 13.38% in 3 years, 15.57% in 5 years.
+SBI Small Cap Fund fund has generated a return of 1.00% in 1 year, 13.58% in 3 years, 15.03% in 5 years.
 Who is the fund manager of SBI Small Cap Fund?
 The fund managers are R. Srinivasan.
 What is the exit load of the fund?
 The exit load is 1% if redeemed in 0-1 Years. Exit load is a fee levied for ‘exiting’ the fund earlier than a stipulated period, usually 1 year.
 What is the expense ratio of the fund?
-The expense ratio is 0.79%. The Expense Ratio is a fee charged for managing the fund. This includes commissions, administrative costs etc.
+The expense ratio is 0.86%. The Expense Ratio is a fee charged for managing the fund. This includes commissions, administrative costs etc.
 What is the AUM of the fund?
 The AUM of the fund is ₹37141 Cr. AUM stands for Assets Under Management. It refers to the total assets managed by the fund.
 What are the top holdings of SBI Small Cap Fund?
