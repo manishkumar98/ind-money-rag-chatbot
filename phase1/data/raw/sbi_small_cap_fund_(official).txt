@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329
-Scraped Date: 2026-05-25 02:16:14
+Scraped Date: 2026-06-01 02:37:45
 --------------------------------------------------
 Join Us
 For distributor
@@ -44,10 +44,30 @@ Invest
 Historical NAV
 SBI Small Cap Fund - Regular Plan - Growth
 1 Year
-NAV as on May 22, 2026
+NAV as on May 31, 2026
 
-₹ 166.7351 (+0.19% one day change)
+₹ 168.0571 (0.00% one day change)
 
+Values
+May 2025
+Jun 2025
+Jul 2025
+Aug 2025
+Sep 2025
+Oct 2025
+Nov 2025
+Dec 2025
+Jan 2026
+Feb 2026
+Mar 2026
+Apr 2026
+May 2026
+140
+150
+160
+170
+180
+190
 Past Performance may or may not be sustained in future
 Investment Criteria
 Min SIP Amount
