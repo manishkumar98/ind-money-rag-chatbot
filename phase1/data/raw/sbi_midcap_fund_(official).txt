@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Midcap-Fund-34
-Scraped Date: 2026-06-01 02:37:58
+Scraped Date: 2026-06-08 02:37:33
 --------------------------------------------------
 Join Us
 For distributor
@@ -27,13 +27,15 @@ Since Inception
 Returns for Direct growth
 18.36%
 Since Inception
-AUM as on 30 Apr 2026
-₹23252.77Cr
+AUM as on 31 May 2026
+₹23416.76Cr
 Date of Allotment
 
 29 Mar, 2005
 
 Exit Load
+view details
+Historical Exit Load
 view details
 Benchmark :
 Scheme Benchmark: Nifty Midcap 150 TRI
@@ -44,9 +46,9 @@ Invest
 Historical NAV
 SBI Midcap Fund - Regular Plan - Growth
 1 Year
-NAV as on May 31, 2026
+NAV as on Jun 05, 2026
 
-₹ 234.579 (-0.01% one day change)
+₹ 232.2228 (+0.16% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
@@ -149,7 +151,7 @@ Statement of Additional Information
 Offer Document/SID/KIM
 Tenders
 Notices & Addendums
-Tax Reckoner 2025-26
+Tax Reckoner 2026-27
 Total Expense Ratio of Mutual Fund Schemes
 NAVs
 NAVs
