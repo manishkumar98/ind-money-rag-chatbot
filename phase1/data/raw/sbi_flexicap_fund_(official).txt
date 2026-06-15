@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Flexicap-Fund-39
-Scraped Date: 2026-06-08 02:36:50
+Scraped Date: 2026-06-15 02:39:57
 --------------------------------------------------
 Join Us
 For distributor
@@ -22,10 +22,10 @@ EQUITY
 Open Ended
 VERY HIGH Risk
 Returns for Regular-Growth
-12.1%
+12.06%
 Since Inception
 Returns for Direct growth
-14.7%
+14.62%
 Since Inception
 AUM as on 31 May 2026
 ₹22386.67Cr
@@ -46,9 +46,9 @@ Invest
 Historical NAV
 SBI Flexicap Fund - Regular Plan - Growth
 1 Year
-NAV as on Jun 05, 2026
+NAV as on Jun 12, 2026
 
-₹ 104.3783 (-0.05% one day change)
+₹ 104.8043 (+2.01% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
