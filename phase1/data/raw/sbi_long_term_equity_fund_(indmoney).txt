@@ -1,11 +1,11 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-long-term-equity-fund-direct-growth-2754
-Scraped Date: 2026-06-29 02:18:25
+Scraped Date: 2026-07-06 02:06:24
 --------------------------------------------------
 www.indmoney.com
 Performing security verification
 
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Ray ID: a13170a38f548c94
+Ray ID: a16b0ca908d0cc16
 Performance and Security by Cloudflare
 Privacy
