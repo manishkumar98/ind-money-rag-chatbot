@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329
-Scraped Date: 2026-07-06 02:05:51
+Scraped Date: 2026-07-13 01:46:35
 --------------------------------------------------
 Join Us
 For distributor
@@ -22,10 +22,10 @@ EQUITY
 Open Ended
 VERY HIGH Risk
 Returns for Regular-Growth
-18.37%
+18.73%
 Since Inception
 Returns for Direct growth
-22.4%
+22.84%
 Since Inception
 AUM as on 30 Jun 2026
 ₹40165.16Cr
@@ -46,10 +46,31 @@ Invest
 Historical NAV
 SBI Small Cap Fund - Regular Plan - Growth
 1 Year
-NAV as on Jul 03, 2026
+NAV as on Jul 10, 2026
 
-₹ 179.7849 (-0.57% one day change)
+₹ 180.6292 (+0.74% one day change)
 
+Values
+Jun 2025
+Jul 2025
+Aug 2025
+Sep 2025
+Oct 2025
+Nov 2025
+Dec 2025
+Jan 2026
+Feb 2026
+Mar 2026
+Apr 2026
+May 2026
+Jun 2026
+Jul 2026
+140
+150
+160
+170
+180
+190
 Past Performance may or may not be sustained in future
 Investment Criteria
 Min SIP Amount
@@ -120,6 +141,17 @@ The risk of the benchmark is
 very high
 
 FAQ Section
+How to Invest in SBI Small Cap Fund?
+What is the current NAV of SBI Small Cap Fund?
+What is the AUM of SBI Small Cap Fund?
+What is the Riskometer level of SBI Small Cap Fund?
+What are the top holdings of SBI Small Cap Fund?
+Is there any lock-in period for SBI Small Cap Fund?
+What is the expense ratio of SBI Small Cap Fund?
+How can I redeem my investments in SBI Small Cap Fund?
+What are the top sectors SBI Small Cap Fund has invested in?
+Who manages the SBI Small Cap Fund?
+What is the minimum investment in SBI Small Cap Fund?
 About us
 SBI Funds
 Corporate Profile
@@ -138,7 +170,7 @@ Statement of Additional Information
 Offer Document/SID/KIM
 Tenders
 Notices & Addendums
-Tax Reckoner 2026-27
+Tax Reckoner - 2025-26
 Total Expense Ratio of Mutual Fund Schemes
 NAVs
 NAVs
@@ -173,10 +205,3 @@ Registration Details
 Mutual Fund Investments are subject to market risks, read all scheme related documents carefully. © Copyright 2024 SBI MUTUAL FUND
 
 Follow us on:
-
-NEW LAUNCH
-KNOW MORE
-SIF LAUNCH
-NEW LAUNCH
-KNOW MORE
-SIF LAUNCH
