@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Flexicap-Fund-39
-Scraped Date: 2026-07-13 01:46:02
+Scraped Date: 2026-07-20 03:07:07
 --------------------------------------------------
 Join Us
 For distributor
@@ -46,9 +46,9 @@ Invest
 Historical NAV
 SBI Flexicap Fund - Regular Plan - Growth
 1 Year
-NAV as on Jul 10, 2026
+NAV as on Jul 17, 2026
 
-₹ 107.6982 (+1.08% one day change)
+₹ 107.8334 (+0.23% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
