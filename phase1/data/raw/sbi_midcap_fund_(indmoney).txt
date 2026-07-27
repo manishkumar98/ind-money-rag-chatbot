@@ -1,11 +1,11 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-midcap-fund-direct-growth-3129
-Scraped Date: 2026-07-20 03:08:18
+Scraped Date: 2026-07-27 01:54:23
 --------------------------------------------------
 www.indmoney.com
 Performing security verification
 
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Ray ID: a1dec2984e4ca6ca
+Ray ID: a21803ee1e12d7dd
 Performance and Security by Cloudflare
 Privacy
