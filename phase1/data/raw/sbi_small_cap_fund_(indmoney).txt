@@ -1,11 +1,11 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-small-cap-fund-direct-plan-growth-3603
-Scraped Date: 2026-07-27 01:54:17
+Scraped Date: 2026-08-03 01:49:05
 --------------------------------------------------
 www.indmoney.com
 Performing security verification
 
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Ray ID: a21803c37da41f9a
+Ray ID: a251a9cbfb9478c9
 Performance and Security by Cloudflare
 Privacy
