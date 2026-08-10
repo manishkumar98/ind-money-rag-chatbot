@@ -1,11 +1,11 @@
 Source URL: https://www.indmoney.com/mutual-funds/sbi-flexicap-fund-direct-growth-3249
-Scraped Date: 2026-08-03 01:48:51
+Scraped Date: 2026-08-10 00:55:41
 --------------------------------------------------
 www.indmoney.com
 Performing security verification
 
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Ray ID: a251a9770ec178c9
+Ray ID: a28b0932d9581e95
 Performance and Security by Cloudflare
 Privacy
