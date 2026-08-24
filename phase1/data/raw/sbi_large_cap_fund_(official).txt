@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/sbi-large-cap-fund-(formerly-known-as-sbi-bluechip-fund)-43
-Scraped Date: 2026-08-17 00:36:52
+Scraped Date: 2026-08-24 00:38:28
 --------------------------------------------------
 Join Us
 For distributor
@@ -46,9 +46,9 @@ Invest
 Historical NAV
 SBI Large Cap Fund (Formerly known as SBI Bluechip Fund) - Regular Plan - Growth
 1 Year
-NAV as on Aug 14, 2026
+NAV as on Aug 21, 2026
 
-₹ 94.4336 (-0.23% one day change)
+₹ 94.0325 (+0.02% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
