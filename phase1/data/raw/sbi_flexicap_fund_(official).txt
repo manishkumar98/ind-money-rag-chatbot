@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Flexicap-Fund-39
-Scraped Date: 2026-08-24 00:38:44
+Scraped Date: 2026-08-31 02:10:20
 --------------------------------------------------
 Join Us
 For distributor
@@ -46,9 +46,9 @@ Invest
 Historical NAV
 SBI Flexicap Fund - Regular Plan - Growth
 1 Year
-NAV as on Aug 21, 2026
+NAV as on Aug 28, 2026
 
-₹ 109.6199 (+0.41% one day change)
+₹ 110.0613 (+0.30% one day change)
 
 Past Performance may or may not be sustained in future
 Investment Criteria
@@ -189,7 +189,7 @@ customer.delight@sbimf.com
 SMS 'SBIMF' to 7065611100
 Verified Outbound-Only Numbers – 1600313502/1600308125 – Authorized for service & transactional calls from SBI Mutual Fund.
 Please note: These numbers do not accept incoming calls. To reach us, please use the numbers mentioned in the ‘Contact Us’ section above.
-CIN: U65990MH1992PLC065289
+CIN: L65990MH1992PLC065289
 Registered Name: SBI Mutual Fund
 Registration Number: MF/009/93/3
 Registration Details
