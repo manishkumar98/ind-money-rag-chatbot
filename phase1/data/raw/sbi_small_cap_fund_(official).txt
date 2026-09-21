@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-Small-Cap-Fund-329
-Scraped Date: 2026-09-14 02:13:55
+Scraped Date: 2026-09-21 02:14:01
 --------------------------------------------------
 Join Us
 For distributor
@@ -46,9 +46,9 @@ Invest Find an AMFI Certified Distributor
 Historical NAV
 SBI Small Cap Fund - Regular Plan - Growth
 1 Year
-NAV as on Sep 11, 2026
+NAV as on Sep 18, 2026
 
-₹ 186.7116 (+0.13% one day change)
+₹ 185.8687 (+1.50% one day change)
 
 Past Performance may or may not be sustained in future
 AI Overview of SBI Small Cap Fund
