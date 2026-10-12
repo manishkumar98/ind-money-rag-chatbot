@@ -1,5 +1,5 @@
 Source URL: https://www.sbimf.com/sbimf-scheme-details/SBI-ELSS-Tax-Saver-Fund-(formerly-known-as-SBI-Long-Term-Equity-Fund)-3
-Scraped Date: 2026-10-05 02:53:48
+Scraped Date: 2026-10-12 03:08:40
 --------------------------------------------------
 Join Us
 For distributor
@@ -22,13 +22,13 @@ EQUITY
 Open Ended
 VERY HIGH Risk
 Returns for Regular-Growth
-15.78%
+15.54%
 Since Inception
 Returns for Direct growth
-15.24%
+14.67%
 Since Inception
-AUM as on 31 Aug 2026
-₹31730.89Cr
+AUM as on 30 Sep 2026
+₹30030.27Cr
 Date of Allotment
 
 31 Mar, 1993
@@ -47,9 +47,9 @@ Invest Find an AMFI Certified Distributor
 Historical NAV
 SBI ELSS Tax Saver Fund (formerly known as SBI Long Term Equity Fund) -Regular Plan - Growth
 1 Year
-NAV as on Oct 01, 2026
+NAV as on Oct 09, 2026
 
-₹ 404.8756 (-0.75% one day change)
+₹ 405.0105 (+0.98% one day change)
 
 Past Performance may or may not be sustained in future
 AI Overview of SBI ELSS Tax Saver Fund (formerly known as SBI Long Term Equity Fund)
